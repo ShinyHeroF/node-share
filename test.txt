@@ -1,0 +1,6 @@
+abcdefghijklmn
+0123456789
+!@#$%^&*()
+new line appended!!
+
+分享API的时候将异常情况罗列下
