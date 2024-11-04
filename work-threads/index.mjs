@@ -22,9 +22,9 @@ function runService(workerData) {
       if (code !== 0)
         reject(new Error(`Worker stopped with exit code ${code}`));
     });
-    setTimeout(() => {
-      worker.terminate();
-    }, 500);
+    // setTimeout(() => {
+    //   worker.terminate();
+    // }, 500);
   })
 }
 
